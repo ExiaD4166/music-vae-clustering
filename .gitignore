@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Data (keep your mp3 and large files out)
+data/
+*.mp3
+*.wav
+*.flac
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
