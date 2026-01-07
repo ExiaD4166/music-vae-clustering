@@ -10,7 +10,6 @@ We implement three stages: Easy, Medium, and Hard tasks, and compare VAE cluster
 - Total clips: 3368
 
 Dataset link : https://drive.google.com/drive/folders/1WqemBds8_gHtxfVfOY9dvTxxUfxZ9jXF
-Note: Raw audio files are not included in this repository.
 
 ## Project Structure
 - `notebooks/`  
@@ -46,3 +45,4 @@ Note: Raw audio files are not included in this repository.
 2. Install dependencies if needed:
    ```bash
    pip install numpy pandas scikit-learn torch librosa matplotlib
+
